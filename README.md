@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">I'm a computer science student at SGGW in Warsaw, Poland. I like new technologies and I am sports fan!</h3>
 
-- 🔭 I’m currently working on **simple game in Unity**
-
-- 🌱 I’m currently learning **Unity and Angular**
-
 - 📫 How to reach me **puszka.dawid02@gmail.com**
 
-- ⚡ Fun fact **i really like pizza**
+- ⚡ Fun fact **I really like pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
